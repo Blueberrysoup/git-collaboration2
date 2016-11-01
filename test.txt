@@ -1,1 +1,2 @@
 Line1 testar med en rad
+Line2 lägger till -Ivana
